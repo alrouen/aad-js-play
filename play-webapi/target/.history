@@ -1,0 +1,20 @@
+compile
+~ run
+compile
+~ run
+reload
+compile
+~ run
+compile
+exit
+compile
+exit
+clean
+compile
+exit
+compile
+clean
+compile
+~run
+exit
+~run

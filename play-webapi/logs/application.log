@@ -1,0 +1,22 @@
+2015-06-28 16:43:09,002 [INFO] from play.api.libs.concurrent.ActorSystemProvider in pool-6-thread-6 - Starting application default Akka system: application
+2015-06-28 16:43:09,071 [INFO] from play.core.server.NettyServer$ in pool-6-thread-6 - Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+2015-06-28 16:43:20,877 [INFO] from play.api.libs.concurrent.ActorSystemProvider in ForkJoinPool-1-worker-1 - Starting application default Akka system: application
+2015-06-28 16:43:20,920 [INFO] from play.api.Play$ in ForkJoinPool-1-worker-1 - Application started (Dev)
+2015-06-28 17:56:08,508 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-15 - Shutdown application default Akka system: application
+2015-06-28 17:56:08,599 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-15 - Starting application default Akka system: application
+2015-06-28 17:56:08,607 [INFO] from play.api.Play$ in application-akka.actor.default-dispatcher-15 - Application started (Dev)
+2015-06-28 23:25:02,402 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-153 - Shutdown application default Akka system: application
+2015-06-28 23:25:02,482 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-153 - Starting application default Akka system: application
+2015-06-28 23:25:02,491 [INFO] from play.api.Play$ in application-akka.actor.default-dispatcher-153 - Application started (Dev)
+2015-06-28 23:36:44,218 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-8 - Shutdown application default Akka system: application
+2015-06-28 23:36:44,292 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-8 - Starting application default Akka system: application
+2015-06-28 23:36:44,300 [INFO] from play.api.Play$ in application-akka.actor.default-dispatcher-8 - Application started (Dev)
+2015-06-28 23:38:58,098 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-10 - Shutdown application default Akka system: application
+2015-06-28 23:38:58,171 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-10 - Starting application default Akka system: application
+2015-06-28 23:38:58,182 [INFO] from play.api.Play$ in application-akka.actor.default-dispatcher-10 - Application started (Dev)
+2015-06-28 23:47:41,568 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-6 - Shutdown application default Akka system: application
+2015-06-28 23:47:41,656 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-6 - Starting application default Akka system: application
+2015-06-28 23:47:41,664 [INFO] from play.api.Play$ in application-akka.actor.default-dispatcher-6 - Application started (Dev)
+2015-06-28 23:51:52,064 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-7 - Shutdown application default Akka system: application
+2015-06-28 23:51:52,131 [INFO] from play.api.libs.concurrent.ActorSystemProvider in application-akka.actor.default-dispatcher-7 - Starting application default Akka system: application
+2015-06-28 23:51:52,141 [INFO] from play.api.Play$ in application-akka.actor.default-dispatcher-7 - Application started (Dev)
